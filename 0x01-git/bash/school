@@ -1,3 +1,4 @@
 #!/bin/bash
-echo "School"
-:q
+echo "The Schol is open"
+
+
